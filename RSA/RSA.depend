@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1544786003 source:c:\users\clément rousseau\desktop\nouveau dossier\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545001998 source:c:\users\cleme\desktop\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545242446 source:c:\users\clément rousseau\desktop\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545262363 source:c:\users\cleme\desktop\rsa\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545331638 source:c:\users\clément rousseau\desktop\rsa-20181220t124322z-001\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
